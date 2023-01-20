@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ResearchTeam_h/RT项目代码/ResearchTeam.iml" filepath="$PROJECT_DIR$/ResearchTeam_h/RT项目代码/ResearchTeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/information-website.iml" filepath="$PROJECT_DIR$/.idea/information-website.iml" />
+    </modules>
+  </component>
+</project>
